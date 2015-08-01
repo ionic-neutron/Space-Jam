@@ -1,6 +1,0 @@
-<TextureAtlas imagePath="spaceShip.png">
-	<SubTexture name="space-ship_000.png" x="79" y="0" width="75" height="142"/>
-	<SubTexture name="space-ship_001.png" x="0" y="0" width="75" height="152"/>
-	<SubTexture name="space-ship_002.png" x="79" y="0" width="75" height="142"/>
-	<SubTexture name="space-ship_003.png" x="0" y="0" width="75" height="152"/>
-</TextureAtlas>
