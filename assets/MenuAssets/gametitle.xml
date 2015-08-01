@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="gametitle_000.png" x="334" y="0" width="330" height="550"/>
+	<SubTexture name="gametitle_001.png" x="0" y="0" width="330" height="550"/>
+	<SubTexture name="gametitle_002.png" x="334" y="0" width="330" height="550"/>
+	<SubTexture name="gametitle_003.png" x="0" y="0" width="330" height="550"/>
+	<SubTexture name="gametitle_004.png" x="334" y="0" width="330" height="550"/>
+	<SubTexture name="gametitle_005.png" x="0" y="0" width="330" height="550"/>
+	<SubTexture name="gametitle_006.png" x="334" y="0" width="330" height="550"/>
+	<SubTexture name="gametitle_007.png" x="0" y="0" width="330" height="550"/>
+</TextureAtlas>
